@@ -31,6 +31,13 @@ This is a compilation of materials for my first project in the course DSC 680 (A
 
 
 
+[Project Paper](https://github.com/DSCWajahat/CreditCardFraud/blob/master/DSC680Project1-FinalReport.pdf)<br/>
+
+[Project Code](https://github.com/DSCWajahat/CreditCardFraud/blob/master/DSC%20680%20Project%201%20Code.ipynb)<br/>
+
+[Project Presentation](https://github.com/DSCWajahat/CreditCardFraud/blob/master/Final%20Presentation.pptx)<br/>
+
+
 
 
 
