@@ -51,13 +51,13 @@ This is a compilation of materials for my first project in the course DSC 680 (A
 This project is recommending the system to predict the preference of user in a movie choice in a most effecient way. This system can detect the behaviour of user's  choice and recommend him/her the movie based on his/her preference. Dataaset was provided by MovieLens.
 
 
-[Project Proposal](https://github.com/DSCWajahat/Movie-Recommender/blob/master/DSC%20680%20Project%202%20Proposal%20-%20New.docx)<br/>
+[Project Proposal](https://github.com/DSCWajahat/Movie-Recommendation/blob/master/Project%20Proposal.docx)<br/>
 
-[Project Paper](https://github.com/DSCWajahat/Movie-Recommender/blob/master/DSC%20680%20Project%202%20Paper.docx)<br/>
+[Project Paper](https://github.com/DSCWajahat/Movie-Recommendation/blob/master/Recommender%20system%20Paper.docx)<br/>
 
 [Project Code](https://github.com/DSCWajahat/Movie-Recommendation/blob/master/RecommendationSystem.R)<br/>
 
-[Project Video](https://github.com/DSCWajahat/Movie-Recommendation/blob/master/Final%20Presentation.pptx)<br/>
+[Project Presentation](https://github.com/DSCWajahat/Movie-Recommendation/blob/master/Final%20Presentation.pptx)<br/>
 
 ---
 
