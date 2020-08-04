@@ -3,8 +3,8 @@ layout: default
 title: Wajahat's Portfolio
 ---
 
-[Contact](https://github.com/DSCWajahat/dscwajahat.github.io/blob/master/contact/contact.md)<br/>
-[About](https://github.com/DSCWajahat/dscwajahat.github.io/blob/master/about/about.md)<br/>
+[Contact](https://dscwajahat.github.io/blob/master/contact/contact.md)<br/>
+[About](https://dscwajahat.github.io/blob/master/about/about.md)<br/>
 
 
 
