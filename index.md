@@ -3,7 +3,7 @@ layout: default
 title: Wajahat's Portfolio
 ---
 
-
+[Contact](https://github.com/DSCWajahat/dscwajahat.github.io/blob/master/contact.md)</br>
 About Me:
 
 > - Wajahat Sheikh<br/>
