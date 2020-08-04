@@ -4,11 +4,7 @@ title: Wajahat's Portfolio
 ---
 
 [Contact](https://github.com/DSCWajahat/dscwajahat.github.io/blob/master/contact/contact.md)<br/>
-About Me:
-
-> - Wajahat Sheikh<br/>
-> - Graduate student at Bellevue University, expected graduation at 2020<br/>
-> - 2 years of data science experience
+[About](https://github.com/DSCWajahat/dscwajahat.github.io/blob/master/about/about.md)<br/>
 
 
 
