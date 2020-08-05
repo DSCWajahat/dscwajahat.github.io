@@ -7,27 +7,33 @@ title: Wajahat's Portfolio
 
 # Fahion Classifier
 In this project, I classified different fashion items and also I applied EDA on dataset using PCA and t-SNE methods. By using modified LeNet model,I got almost 98% accuracy on classifying items.
+
+[Project Code](https://github.com/DSCWajahat/PortfolioProjects/blob/master/FahionClassifier.ipynb)<br/>
+
 # Fahion Recommender
 I used modified LeNet to extract features and used them to get similiar fashion products using sklearn nearest neighbours module.
+
+[Project Code](https://github.com/DSCWajahat/PortfolioProjects/blob/master/FahsionRecommender.ipynb)<br/>
+
 # Four Shapes Classification
 In this project, I used modified LeNet CNN to classify different types of shapes and got 99% accuracy.
 
-[Project Code](https://github.com/DSCWajahat/PortfolioProjects/blob/master/ClassificationComparisons.ipynb)<br/>
+[Project Code](https://github.com/DSCWajahat/PortfolioProjects/blob/master/FourShapesClassification.ipynb)<br/>
 
 # Netflix Analysis
 This project aims to build a movie recommendation mechanism within Netflix. The dataset I used here come directly from Netflix which can be downloaded rom kaggle.
 
-[Project Code](https://github.com/DSCWajahat/PortfolioProjects/blob/master/ClassificationComparisons.ipynb)<br/>
+[Project Code](https://github.com/DSCWajahat/PortfolioProjects/blob/master/Netflix%20Analysis.ipynb)<br/>
 
 # Pima Indians Diabetes Analysis
 The objective of this project is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset
 
-[Project Code](https://github.com/DSCWajahat/PortfolioProjects/blob/master/ClassificationComparisons.ipynb)<br/>
+[Project Code](https://github.com/DSCWajahat/PortfolioProjects/blob/master/Pima%20Indians%20Diabetes.py)<br/>
 
 # UFO Sightings Analysis
 I investigated UFO data over the last century to formulate some questions, and gain insight regarding what the answers may be. This is also be a useful notebook on seeing how one may get their brain juices flowing when faced with an unknown dataset.
 
-[Project Code](https://github.com/DSCWajahat/PortfolioProjects/blob/master/ClassificationComparisons.ipynb)<br/>
+[Project Code](https://github.com/DSCWajahat/PortfolioProjects/blob/master/UFO%20Sightings%20Analysis.ipynb)<br/>
 
 # Classification Comparisons
 The goal of this project was to load a dummy dataset and apply different classification techniques using sklearn and perform EDA and graphs comparisons between the performance of each classification algorithm
