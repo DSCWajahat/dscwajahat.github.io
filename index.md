@@ -3,12 +3,8 @@ layout: default
 title: Wajahat's Portfolio
 ---
 
-[Contact](https://github.com/DSCWajahat/dscwajahat.github.io/blob/master/about/about.md)<br/>
-[About](https://github.com/DSCWajahat/dscwajahat.github.io/blob/master/contact/contact.md)<br/>
 
 
-
-# Portfolio Projects
 # Fahion Classifier
 In this project, I classified different fashion items and also I applied EDA on dataset using PCA and t-SNE methods. By using modified LeNet model,I got almost 98% accuracy on classifying items.
 # Fahion Recommender
@@ -69,6 +65,25 @@ This project is recommending the system to predict the preference of user in a m
 
 ---
 
+## Customer-Segmentation
+<img src="https://cdn.liveagent.com/app/uploads/2019/11/Segmentation-2.png" width="320" height="168" title="Segmentation">
+### What was used:
+
+- R  Language and its packages such as ggplot2; data.table; reshape2
 
 
+Customer segmentation is a process which allows a business to divide their customer base into specific groups based on similarities such as gender, age, shopping habits, and more. Using machine learning algorithms, I plan to segment customers of a shopping mall in this manner. With segmentation, companies can gain a deeper understanding of their user base and meet the specific needs of those groups
 
+
+[Project Proposal](https://github.com/DSCWajahat/Customer-Segmentation/blob/master/8.2%20Project%203%20Milestone%201.docx)<br/>
+
+[Project Paper](https://github.com/DSCWajahat/Customer-Segmentation/blob/master/Project%203%20%20Paper.docx)<br/>
+
+[Project Code](https://github.com/DSCWajahat/Customer-Segmentation/blob/master/CustomerSegmentation.ipynb)<br/>
+
+[Project Presentation](https://github.com/DSCWajahat/Customer-Segmentation/blob/master/Customer%20Segmentation%20Slides.pptx)<br/>
+
+---
+
+[Contact](https://github.com/DSCWajahat/dscwajahat.github.io/blob/master/about/about.md)<br/>
+[About](https://github.com/DSCWajahat/dscwajahat.github.io/blob/master/contact/contact.md)<br/>
