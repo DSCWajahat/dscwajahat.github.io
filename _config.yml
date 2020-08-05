@@ -1,2 +1,8 @@
 theme: jekyll-theme-slate
 title: Wajahat Sheikh
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - contact.md
+  - about.md
