@@ -67,6 +67,7 @@ This project is recommending the system to predict the preference of user in a m
 
 ## Customer-Segmentation
 <img src="https://cdn.liveagent.com/app/uploads/2019/11/Segmentation-2.png" width="320" height="168" title="Segmentation">
+
 ### What was used:
 
 - R  Language and its packages such as ggplot2; data.table; reshape2
